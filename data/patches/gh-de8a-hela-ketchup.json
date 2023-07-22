@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Hela Ketchup",
+	"description": "The HELA Gewürzketchup is one of the most iconic and well know sauces in Germany",
+	"links": {
+		"website": [
+			"https://de.wikipedia.org/wiki/Hela_Gew%C3%BCrzwerk_Hermann_Laue"
+		]
+	},
+	"path": {
+		"99": [
+			[
+				286,
+				-392
+			],
+			[
+				287,
+				-441
+			],
+			[
+				298,
+				-441
+			],
+			[
+				298,
+				-392
+			]
+		]
+	},
+	"center": {
+		"99": [
+			292,
+			-399
+		]
+	}
+}
