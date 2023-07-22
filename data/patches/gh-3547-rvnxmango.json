@@ -1,0 +1,60 @@
+{
+	"id": -1,
+	"name": "RvNxMango",
+	"description": "The Mango was added to honor German Youtuber RvNxMango who made a fantastic recap of last year's r/place history. ",
+	"links": {
+		"subreddit": [
+			"rvnxmango"
+		]
+	},
+	"path": {
+		"99": [
+			[
+				11,
+				-431
+			],
+			[
+				7,
+				-437
+			],
+			[
+				8,
+				-444
+			],
+			[
+				18,
+				-450
+			],
+			[
+				25,
+				-447
+			],
+			[
+				30,
+				-441
+			],
+			[
+				31,
+				-434
+			],
+			[
+				30,
+				-430
+			],
+			[
+				24,
+				-428
+			],
+			[
+				17,
+				-429
+			]
+		]
+	},
+	"center": {
+		"99": [
+			19,
+			-439
+		]
+	}
+}
